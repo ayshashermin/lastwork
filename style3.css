@@ -1,0 +1,24 @@
+#h1{
+margin-top: -333px;
+margin-left: 564px;
+color: rgb(229, 236, 93);
+}
+/* #img{
+    background-image: url('imgae2.webp');
+    width:1538px;
+    height:430px;
+} */
+ #card1{
+    margin-left: 549px;
+    margin-top: -365px;
+    display: flex
+ }
+ #card2{
+    margin-left: 150px;
+    display: flex;
+ }
+ #card3{
+    margin-left: 948px;
+    margin-top: -365px;
+    display: flex;
+ }
